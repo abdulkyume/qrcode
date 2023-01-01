@@ -1,0 +1,19 @@
+.mainbgbody {
+  background-color: #d5e1ef;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inside {
+  background-color: white;
+  width: 330px;
+  padding: 1.5rem;
+  border-radius: 25px;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+img {
+  width: 100%;
+  height: 318px;
+  border-radius: 8px;
+}
